@@ -7,6 +7,6 @@
  * Visit http://www.pragmaticprogrammer.com/titles/dnvim2 for more book information.
 ***/
 var tally;
-for (tally=1; tally <= 10; tally++) {
+for (counter=1; tally <= 10; tally++) {
   // do something with tally
 };
